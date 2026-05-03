@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "afterweather"
+version = "0.2.0"
+description = "Stunning real-time tracking combined with local machine learning"
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "rich",
+    "scikit-learn",
+    "pandas",
+    "numpy"
+]
+
+[tool.setuptools]
+py-modules = ["weather_cli", "weather_ml"]
+
+[project.scripts]
+afterweather = "weather_cli:main"

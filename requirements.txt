@@ -1,0 +1,5 @@
+requests
+rich
+scikit-learn
+pandas
+numpy
