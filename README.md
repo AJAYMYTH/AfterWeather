@@ -38,15 +38,18 @@ afterweather -c "Mumbai"
 
 ---
 *Stay safe in the weather with AfterWeather.*
+
 ---
 ## Screen Shots:
-**Entery Point of CLI :**
+---
+## Entery Point of CLI :
 <img width="1919" height="1030" alt="Entery Point" src="https://github.com/user-attachments/assets/cd373574-1ef4-4cd1-8d43-caeb1ae935c1" />
 
-
-**Processing... :**
+---
+## Processing... :
 <img width="1919" height="1079" alt="Processing..." src="https://github.com/user-attachments/assets/ed11cacb-2d5f-44ef-9362-ced6992f0f3c" />
 
+---
 
-**CLI Dashboard :**
+## CLI Dashboard :
 <img width="1919" height="1079" alt="CLI Dashboard" src="https://github.com/user-attachments/assets/c244011a-ac11-4b8d-9629-789d23a4aa33" />
